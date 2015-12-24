@@ -2,7 +2,7 @@
 
 ## big Headline
 
-### Small Headline
+### Small Head
 
 [This is s link](http://google.com)
 
